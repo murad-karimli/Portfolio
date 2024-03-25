@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b67dd001.css",
+    "main.js": "/portfolio/static/js/main.1c351008.js",
+    "static/media/code.jpg": "/portfolio/static/media/code.ea1cc58a26b0c0012c6c.jpg",
+    "static/media/snapshot.png": "/portfolio/static/media/snapshot.90191ebeaeb98f3e5085.png",
+    "static/media/brand.png": "/portfolio/static/media/brand.81202638f96baf40ae1e.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.3d0b00eaed00c65ff82d.png",
+    "static/media/blogr.png": "/portfolio/static/media/blogr.3e4a03a7f15e056a4cbb.png",
+    "static/media/cv.png": "/portfolio/static/media/cv.70ca5c331a0e113d2a08.png",
+    "static/media/academy.jpg": "/portfolio/static/media/academy.86302dc17c97f0b872e0.jpg",
+    "static/media/myPhoto.jpg": "/portfolio/static/media/myPhoto.18e415d8a877c2529b29.jpg",
+    "static/media/coin.png": "/portfolio/static/media/coin.b6b7b2275488879ca59e.png",
+    "static/media/countries.png": "/portfolio/static/media/countries.3f3ce57c719b8f470e81.png",
+    "static/media/elte.jpg": "/portfolio/static/media/elte.ce75e8eaa3155474e03a.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.b67dd001.css.map": "/portfolio/static/css/main.b67dd001.css.map",
+    "main.1c351008.js.map": "/portfolio/static/js/main.1c351008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67dd001.css",
+    "static/js/main.1c351008.js"
+  ]
+}
